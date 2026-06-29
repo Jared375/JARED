@@ -1,16 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>My Personal Website</title>
-
-    <style>
-
-        body {
+  body {
             font-family: Arial, sans-serif;
             margin: 0;
             background-color: white;
@@ -33,12 +21,13 @@
         p {
             line-height: 1.8;
         }
-    </style>
-</head>
-<body>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            line-height: 1.6;
+            background:  white;
+            color: #333;
 
- <style>
-      
         header { 
             background: black;
             color: white;
@@ -89,49 +78,3 @@
         .btn:hover {
             background: #005fa3;
         }
-    </style>
-    <header>
-        <h1>Jared Pacatan</h1>
-        <p>Student | Designer | Creator</p>
-    </header>
-
-    <NAV> <div  style="padding: 20px;">
-        <a href="index.html">HOME</a>
-        <a href="HOME1.HTML">ABOUT ME</a>
-        <a href="contack.html">Contact</a>
-    </NAV>
-
-    <section id="about">
-        <h2>About Me</h2>
-        <p>
-            Hello! I'm JARED. I enjoy building websites,
-            learning new technologies, and creating useful projects.
-        </p>
-    </section>
-
-    <section id="projects">
-        <h2>Projects</h2>
-
-        <h3>Project One</h3>
-        <p>create a personal website</p>
-
-        <h3>Project Two</h3>
-        <p>creating a network</p>
-    </section>
-
-    <section id="contact">
-        <h2>Contact</h2>
-     <p>Email: Jared@.com</p>
-      <a href="mailto:yourname@example.com" class="btn">Email Me</a>
-    </section>
-
-    <footer>
-      
-    </footer>
-
-</body>
-</html>
-
-<footer>
-    <p>© 2026 Jared Pacatan| Personal Portfolio Website</p>
-</footer>
